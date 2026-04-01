@@ -1,22 +1,37 @@
 # Hi, I'm Rohit 👋
 
-I’m building tools to simplify agri supply chains in India, starting with makhana (fox nut) distribution.
+Founder @ Makhana Royale | Building open-source tools for agri supply chains in India 🌾
 
-## 🌱 What I'm Working On
+---
 
-* Makhana Supply Chain Toolkit (Open Source)
-* Vendor and pricing optimization tools
+## 🚀 What I’m Building
 
-## 🚀 My Mission
+* Open-source toolkit for makhana distribution
+* Vendor and pricing optimization systems
+* Future: AI-powered agri insights
 
-To empower small vendors and distributors with simple, practical technology tools.
+---
 
-## 📊 Focus Areas
+## 🌱 Mission
 
-* Agri supply chains
-* Pricing transparency
-* Small business growth
+To digitize and simplify supply chains for small vendors and distributors across India.
 
-## 🤝 Open to Collaboration
+---
 
-Looking to collaborate on agri-tech and supply chain solutions.
+## 🧠 Interests
+
+* Agri-tech
+* Supply chain optimization
+* Business analytics
+
+---
+
+## 📌 Current Focus
+
+Scaling open-source tools for real-world impact.
+
+---
+
+## 🤝 Open to Collaborations
+
+Let’s build solutions for India’s agri ecosystem.
