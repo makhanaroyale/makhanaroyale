@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**makhanaroyale/makhanaroyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building tools to simplify agri supply chains in India, starting with makhana (fox nut) distribution.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Makhana Supply Chain Toolkit (Open Source)
+* Vendor and pricing optimization tools
+
+## 🚀 My Mission
+
+To empower small vendors and distributors with simple, practical technology tools.
+
+## 📊 Focus Areas
+
+* Agri supply chains
+* Pricing transparency
+* Small business growth
+
+## 🤝 Open to Collaboration
+
+Looking to collaborate on agri-tech and supply chain solutions.
